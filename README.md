@@ -12,7 +12,7 @@
 <p align="center">A simple and efficient GPA calculator to help students track their academic performance.</p>
 
 <p align="center">
-🌐<a href="https://gpa-calculator-vite.vercel.app/">Visit this Project</a>
+🌐<a href="https://gpa-calculator-vite.vercel.app/" target="_blank" rel="noopener noreferrer">Visit this Project</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
