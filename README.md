@@ -30,6 +30,10 @@
 - Material UI
 - JavaScript
 
+### Suggested IDE
+- Webstorm
+- Visual Studio Code
+
 <h2 id="started">🚀 Getting Started</h2>
 
 Follow these instructions to set up the project locally.
