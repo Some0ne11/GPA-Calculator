@@ -3,7 +3,9 @@
 
 <p align="center">
 <a href="#technologies">Technologies</a>
+ <span>&nbsp; • &nbsp;</span>
 <a href="#started">Getting Started</a>
+ <span>&nbsp; • &nbsp;</span>
 <a href="#colab">Collaborators</a>
 </p>
 
