@@ -18,8 +18,8 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-<img src="https://picsum.photos/400" alt="Random Image" width="400px">
-<img src="https://picsum.photos/400" alt="Random Image" width="400px">
+<img src="public/preview1.png" alt="Random Image" width="400px">
+<img src="public/preview2.png" alt="Random Image" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
